@@ -170,3 +170,45 @@ body {
   padding-left: 1rem;
   border-radius: 0.2rem;
 }
+
+@media (max-width: 430px) {
+  .chat {
+    margin: 1rem 0rem 1rem 0rem;
+    padding: 10px;
+  }
+  .sidebar {
+    flex: 1;
+  }
+  .lowerside {
+    display: none;
+  }
+  .App {
+    display: flex;
+    flex-direction: column;
+  }
+  .querybtn {
+    display: none;
+  }
+  .upperside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+  }
+  .chatlogo {
+    margin-right: 0.5rem;
+    width: 1rem;
+  }
+  .midbtn {
+    width: 30%;
+    margin: 0;
+    height: 70%;
+  }
+  .uppersidetop {
+    padding: 0;
+  }
+  .main {
+    margin: 1rem;
+  }
+}
