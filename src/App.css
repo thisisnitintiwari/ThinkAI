@@ -209,6 +209,7 @@ body {
     padding: 0;
   }
   .main {
-    margin: 1rem;
+    margin: 0 1rem; /* no top/bottom margin */
+    overflow-y: auto;
   }
 }
