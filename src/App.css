@@ -171,7 +171,7 @@ body {
   border-radius: 0.2rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   .chat {
     margin: 1rem 0rem 1rem 0rem;
     padding: 10px;
