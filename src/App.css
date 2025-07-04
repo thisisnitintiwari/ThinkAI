@@ -194,6 +194,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    height: 17vh;
     height: auto;
   }
   .chatlogo {
