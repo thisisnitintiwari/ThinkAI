@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ThinkAI/static/css/main.312ef218.css",
+    "main.js": "/ThinkAI/static/js/main.ea8379c5.js",
+    "static/js/453.f6b72703.chunk.js": "/ThinkAI/static/js/453.f6b72703.chunk.js",
+    "static/media/user-icon.png": "/ThinkAI/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/chatgpt.svg": "/ThinkAI/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/rocket.svg": "/ThinkAI/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/ThinkAI/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "index.html": "/ThinkAI/index.html",
+    "static/media/bookmark.svg": "/ThinkAI/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "static/media/home.svg": "/ThinkAI/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/ThinkAI/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.312ef218.css.map": "/ThinkAI/static/css/main.312ef218.css.map",
+    "main.ea8379c5.js.map": "/ThinkAI/static/js/main.ea8379c5.js.map",
+    "453.f6b72703.chunk.js.map": "/ThinkAI/static/js/453.f6b72703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.312ef218.css",
+    "static/js/main.ea8379c5.js"
+  ]
+}
